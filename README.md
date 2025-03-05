@@ -5,6 +5,7 @@
 # Prerequisites
 Ensure you have the following installed:
 - Python (version 3.X)
+- Git installed
 - Required dependencies (listed in requirements.txt)
 - Virtual enviornment (optional but reccomended)
 
