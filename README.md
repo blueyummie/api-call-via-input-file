@@ -26,6 +26,10 @@ Ensure you have the following installed:
    ```pip install -r requirements.txt```
 
 # Usage
-- Run main.py. You will be prompted to input a file path. Enter the full file path. For this particular example, use this to make it work with the example in this repo:
+- Run main.py.
+
+   ```./main.py```
+
+- You will be prompted to input a file path. Enter the full file path. For this particular example, use this to make it work with the example in this repo:
 
    ```./input_yaml_directory/input.yaml```
