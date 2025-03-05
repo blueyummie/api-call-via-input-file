@@ -15,13 +15,12 @@ Ensure you have the following installed:
    ```git clone https://github.com/blueyummie/api-call-via-input-file.git```
 2. Navigate to your project directory:
 
-   ```cd projectdirectory```
+   ```cd c:\your\Cloned\Directory\```
 
 3. Create a virtual environment (optional but recommended):
 
    ```python -m venv venv source```
    
-   ```source venv/bin/activate```
 4. Install required modules:
 
    ```pip install -r requirements.txt```
