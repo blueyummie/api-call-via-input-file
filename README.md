@@ -29,7 +29,3 @@ Ensure you have the following installed:
 - Run main.py. You will be prompted to input a file path. Enter the full file path. For this particular example, use this to make it work with the example in this repo:
 
    ```./input_yaml_directory/input.yaml```
-
-# Contact
-- For any questions/comments please email bwilson2010@gmail.com
-  
