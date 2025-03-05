@@ -28,8 +28,13 @@ Ensure you have the following installed:
 
 # Usage
 - Run main.py.
+   - If on Windows:
 
-   ```./main.py```
+      ```python ./main.py```
+
+   - If on Mac:
+
+      ```python3 ./main.py```
 
 - You will be prompted to input a file path. Enter the full file path. For this particular example, use this to make it work with the example in this repo:
 
