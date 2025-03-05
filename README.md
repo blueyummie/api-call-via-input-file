@@ -1,5 +1,6 @@
 # Make API calls from an input .yaml file
-This program will prompt user for an input .yaml file path.  It will then automatically make API requets to every URL in the yaml every 15 seconds until user stops the program with a keyboard inturruption. While it's making these API calls, it will calcualte the UP time for each domain and print it to console.
+- This program will prompt user for an input .yaml file.  It will then automatically make API requets to every unique URL in the yaml every 15 seconds until user stops the program with a keyboard inturruption. While it's making these API calls, it will calculate the UP time for each domain and print it to console.
+- "UP" is defined as any call that has <= 500ms response time AND returns a 200-299 http response code.
 
 # Prerequisites
 Ensure you have the following installed:
@@ -25,4 +26,10 @@ Ensure you have the following installed:
    ```pip install -r requirements.txt```
 
 # Usage
-Run main.py. You will be prompted to input a file path. Put in the exact file path
+- Run main.py. You will be prompted to input a file path. Enter the full file path. For this particular example, use this to make it work with the example in this repo:
+
+   ```./input_yaml_directory/input.yaml```
+
+# Contact
+- For any questions/comments please email bwilson2010@gmail.com
+  
