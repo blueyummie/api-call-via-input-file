@@ -8,6 +8,7 @@ Ensure you have the following installed:
 - Git installed
 - Required dependencies (listed in requirements.txt)
 - Virtual enviornment (optional but reccomended)
+- Valid .yaml file
 
 # Installation
 1. Clone the repository:
